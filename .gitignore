@@ -1,0 +1,4 @@
+build/
+*.bin
+*.zip
+i686-elf-tools-windows/
